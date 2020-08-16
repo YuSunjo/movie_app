@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/YuSunjo/movie_app/static/css/main.07e28d20.chunk.css",
+    "main.js": "/YuSunjo/movie_app/static/js/main.2fd5edad.chunk.js",
+    "main.js.map": "/YuSunjo/movie_app/static/js/main.2fd5edad.chunk.js.map",
+    "runtime-main.js": "/YuSunjo/movie_app/static/js/runtime-main.a25e07b9.js",
+    "runtime-main.js.map": "/YuSunjo/movie_app/static/js/runtime-main.a25e07b9.js.map",
+    "static/js/2.670a5eaa.chunk.js": "/YuSunjo/movie_app/static/js/2.670a5eaa.chunk.js",
+    "static/js/2.670a5eaa.chunk.js.map": "/YuSunjo/movie_app/static/js/2.670a5eaa.chunk.js.map",
+    "index.html": "/YuSunjo/movie_app/index.html",
+    "precache-manifest.c85ba03ca9a14f00203ce906e7a48590.js": "/YuSunjo/movie_app/precache-manifest.c85ba03ca9a14f00203ce906e7a48590.js",
+    "service-worker.js": "/YuSunjo/movie_app/service-worker.js",
+    "static/css/main.07e28d20.chunk.css.map": "/YuSunjo/movie_app/static/css/main.07e28d20.chunk.css.map",
+    "static/js/2.670a5eaa.chunk.js.LICENSE.txt": "/YuSunjo/movie_app/static/js/2.670a5eaa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a25e07b9.js",
+    "static/js/2.670a5eaa.chunk.js",
+    "static/css/main.07e28d20.chunk.css",
+    "static/js/main.2fd5edad.chunk.js"
+  ]
+}
